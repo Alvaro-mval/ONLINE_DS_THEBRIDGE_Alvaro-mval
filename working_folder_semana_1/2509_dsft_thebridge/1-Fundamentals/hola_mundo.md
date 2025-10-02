@@ -1,2 +1,0 @@
-# Hola bootcamp
-Primer **texto**
